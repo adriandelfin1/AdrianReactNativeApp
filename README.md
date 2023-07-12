@@ -25,3 +25,4 @@
 ![Customizing group chat functionality](https://github.com/adriandelfin1/AdrianReactNativeApp/blob/master/reactappphotos/IMG_2502.jpg)  
 ![customizing account functionality](https://github.com/adriandelfin1/AdrianReactNativeApp/blob/master/reactappphotos/IMG_2506.jpg)  
 ![Chatting functionalities](https://github.com/adriandelfin1/AdrianReactNativeApp/blob/master/reactappphotos/IMG_2507.jpg)  
+### There are so many more features so please feel free to run this app yourself to see more, and report any bugs and issues you have to me. Thank you for viewing!  
