@@ -17,11 +17,11 @@
 4. Finally, run expo start or npm start to start the Expo server and open the project in the Expo client.  
 
 ## Screen shots of the running webapp  
-![Login functionality](https://github.com/adriandelfin1/AdrianReactNativeApp/blob/master/reactappphotos/IMG_2500.jpg)  
-![Login and register functionality](Web-SS1.png)  
-![Login and register functionality](Web-SS1.png)  
-![Login and register functionality](Web-SS1.png)  
-![Login and register functionality](Web-SS1.png)  
-![Login and register functionality](Web-SS1.png)  
-![Login and register functionality](Web-SS1.png)  
-![Login and register functionality](Web-SS1.png)  
+![Sign in functionality](https://github.com/adriandelfin1/AdrianReactNativeApp/blob/master/reactappphotos/IMG_2500.jpg)  
+![Sign up functionality](https://github.com/adriandelfin1/AdrianReactNativeApp/blob/master/reactappphotos/IMG_2501.jpg)  
+![Picking a chat functionality](https://github.com/adriandelfin1/AdrianReactNativeApp/blob/master/reactappphotos/IMG_2503.jpg)  
+![Search for a new chat functionality]((https://github.com/adriandelfin1/AdrianReactNativeApp/blob/master/reactappphotos/IMG_2505.jpg))  
+![Creating a group chat functionality](https://github.com/adriandelfin1/AdrianReactNativeApp/blob/master/reactappphotos/IMG_2504.jpg)  
+![Customizing group chat functionality](https://github.com/adriandelfin1/AdrianReactNativeApp/blob/master/reactappphotos/IMG_2502.jpg)  
+![customizing account functionality](https://github.com/adriandelfin1/AdrianReactNativeApp/blob/master/reactappphotos/IMG_2506.jpg)  
+![Chatting functionalities](https://github.com/adriandelfin1/AdrianReactNativeApp/blob/master/reactappphotos/IMG_2507.jpg)  
