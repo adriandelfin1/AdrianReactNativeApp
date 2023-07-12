@@ -5,7 +5,7 @@
 **Direct/group Messaging:** Users can send direct, private messages to other users and create group chats to message as a group.    
 **Customizable Profiles:** Users can personalize their own accounts by adding profile pictures, create group names and more.  
 ## Technologies Used:
-**Mobile Application Development:** React for building user interface components.  
+**Mobile Application Development:** React Native for building user interface components.  
 **Back-end and Database:** Firebase for server-side operations, user authentication, real-time database, and storage.  
 ## Notes for those that want to run this on their own  
 1. Clone this repository to your local machine.
